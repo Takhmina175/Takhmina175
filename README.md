@@ -1,7 +1,7 @@
-### Hi I am Takhmina (Mina) 👋
+### Hi, I am Takhmina (Mina) 👋
 
 
-Here are some ideas to get you started:
+Here are some information about Me:
 
 - 🔭 I’m currently working on Bootstrap
 - 🌱 I’m currently learning SASS
