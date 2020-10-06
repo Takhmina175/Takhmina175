@@ -1,6 +1,5 @@
 ### Hi, I am Takhmina (Mina) 👋
 
-
 Here are some information about Me:
 
 - 🔭 I’m currently working on Bootstrap
@@ -11,4 +10,4 @@ Here are some information about Me:
 - 📫 How to reach me: takhminam@gmail.com
 - 😄 Pronouns: Takhmina/Mina
 - ⚡ Fun fact: Life is beautiful when you smile :) 
--->
+
