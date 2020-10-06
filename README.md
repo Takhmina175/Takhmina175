@@ -1,4 +1,5 @@
 ### Hi, I am Takhmina (Mina) 👋
+![](images/mina.png)
 
 Here are some information about Me:
 
