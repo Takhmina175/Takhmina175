@@ -1,5 +1,6 @@
 ### Hi, I am Takhmina (Mina) 👋
 ![](images/mina.png)
+I am a software engineer; I love to learn new technologies, data science, and teamwork.
 
 Here are some information about Me:
 
