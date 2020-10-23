@@ -5,8 +5,8 @@ I am a software engineer; I love to learn new technologies, data science, and te
 
 Here are some information about Me:
 
-- 🔭 I’m currently working on Bootstrap
-- 🌱 I’m currently learning SASS
+- 🔭 I’m currently working on Ruby
+- 🌱 I’m currently learning Ruby
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Ruby
 - 💬 Ask me about Anything
